@@ -1,0 +1,14 @@
+Existem várias extensões do Visual Studio Code que podem ser úteis para o desenvolvimento web, incluindo a escrita de arquivos HTML, CSS e JavaScript. Aqui estão algumas das extensões mais recomendadas:
+
+1. **HTML CSS Support**¹¹²: Esta extensão fornece suporte para completar atributos de id e classe, vincular folhas de estilo e garantir que os seletores sejam válidos. É muito útil para o desenvolvimento de HTML e CSS.
+
+2. **Live Server**¹: Permite que você veja as alterações no seu código em tempo real. Isso pode ser muito útil ao desenvolver projetos web.
+
+3. **Prettier - Code formatter**¹⁶¹³: Esta é uma extensão de formatação de código que suporta uma variedade de linguagens, incluindo HTML, CSS e JavaScript. Ela pode ajudar a manter a consistência do código e melhorar a legibilidade.
+
+4. **ESLint**¹⁶[^10^]¹³: Esta é uma ferramenta de linting para JavaScript que pode ajudar a encontrar e corrigir problemas no seu código. É especialmente útil se você estiver trabalhando com JavaScript.
+
+5. **JavaScript (ES6) Code Snippets**⁶[^10^]¹³: Esta extensão adiciona uma série de snippets de código JavaScript que são facilmente acessíveis usando atalhos. Isso pode ajudar a acelerar o desenvolvimento em JavaScript.
+
+Essas extensões foram escolhidas porque elas oferecem uma ampla gama de funcionalidades que podem ajudar a melhorar a eficiência e a qualidade do seu trabalho ao escrever HTML, CSS e JavaScript no Visual Studio Code.
+
